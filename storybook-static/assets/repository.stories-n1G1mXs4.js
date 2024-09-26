@@ -1,0 +1,5 @@
+import{j as e}from"./jsx-runtime-CkxqCPlQ.js";import"./index-DJO9vBfz.js";function a(){return e.jsx("div",{children:e.jsx("button",{type:"button",children:" Click me"})})}a.__docgenInfo={description:"",methods:[],displayName:"Repository"};const p={id:1,node_id:"MDEwOlJlcG9zaXRvcnkxMjYyNjg4NjI=",name:"test-repo",full_name:"test-repo",private:!1,html_url:"https://github.com/test-repo",description:"test repo",fork:!1,url:"https://api.github.com/repos/test-repo",languages_url:"https://api.github.com/repos/test-repo/languages",created_at:"2022-01-01T00:00:00Z",updated_at:"2022-01-01T00:00:00Z",pushed_at:"2022-01-01T00:00:00Z",homepage:"https://github.com"},c={title:"gitstream/components/repository",component:a},t={args:{...p}};var o,r,s;t.parameters={...t.parameters,docs:{...(o=t.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    ...repositoryData
+  }
+}`,...(s=(r=t.parameters)==null?void 0:r.docs)==null?void 0:s.source}}};const m=["Default"];export{t as Default,m as __namedExportsOrder,c as default};
